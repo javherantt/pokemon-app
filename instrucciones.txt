@@ -1,0 +1,10 @@
+INSTRUCCIONES PARA EJECUTAR EL PROYECTO
+
+1. Tener instalado Node.js
+2. Abrir una terminal CMD o PowerShell apuntando a la carpeta del proyecto y ejecutar:
+
+npm install
+
+Al terminar de instalarse las dependencias, corra la aplicación usando:
+
+npm start
